@@ -1,5 +1,6 @@
-### Hi there 👋
-![image](https://user-images.githubusercontent.com/50537557/130899644-5295ff90-3dd9-4c18-a9e6-784a6ce5a667.png)
+![cooltext391610963842094](https://user-images.githubusercontent.com/50537557/130899830-b0754fd5-5b04-4603-b57b-67751acee200.png)
+
+
 Gusto de visitar el perfil del Guapo 👨‍🏫 ✨ marco polo lozano alvarez ✨.
 Actual mente estudiante del TecTijuana:
 
