@@ -12,3 +12,9 @@ Actual mente estudiante del TecTijuana:
 - 📫 Invitando a todos los nuevos desarrolladores a usar usar esta plataforma
 - 😄 En busca de experiencia y conocimiento 😄
 - ⚡ Sabias: que soy maestro en el tec de ajedrez!
+
+| How i describe myself        | Icon |
+|----------------|:----:|
+| software development trainee |![programming](https://user-images.githubusercontent.com/79510480/110405660-c1eba500-8035-11eb-9916-317398313eb1.png)%7C
+| Student                      |![graduated](https://user-images.githubusercontent.com/79510480/110405676-c7e18600-8035-11eb-9645-e3b776ed7a8b.png)%7C
+| New technologies             |![tecnologia (2)](https://user-images.githubusercontent.com/79510480/110405516-8f41ac80-8035-11eb-9386-4849b54e10de.png)%7C
