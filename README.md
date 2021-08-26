@@ -3,6 +3,7 @@
 ![Ajedrez-REDES](https://user-images.githubusercontent.com/50537557/130899860-89c267b0-6b1f-445c-8298-61a5575146ff.jpg)
 
 Gusto de visitar el perfil del Guapo 👨‍🏫 ✨ marco polo lozano alvarez ✨.
+
 Actual mente estudiante del TecTijuana:
 
 - 🔭 soy ajedrecista y programador desde la prepa
