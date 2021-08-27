@@ -19,3 +19,13 @@ Actual mente estudiante del TecTijuana:
 | software development trainee |![programming](https://user-images.githubusercontent.com/79510480/110405660-c1eba500-8035-11eb-9916-317398313eb1.png)%7C
 | Student                      |![graduated](https://user-images.githubusercontent.com/79510480/110405676-c7e18600-8035-11eb-9645-e3b776ed7a8b.png)%7C
 | New technologies             |![tecnologia (2)](https://user-images.githubusercontent.com/79510480/110405516-8f41ac80-8035-11eb-9386-4849b54e10de.png)%7C
+
+| Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| ingenieria de software          | ingenieria de software          | ingenieria de software          | ingenieria de software          | ingenieria de software          |
+| Lenguajes de interfaz           | Lenguajes de interfaz           | Lenguajes de interfaz           | Lenguajes de interfaz           |                                 |
+| Inteligencia artificial         | Inteligencia artificial         |  Inteligencia artificial        | Inteligencia artificial         |                                 |
+| Lenguaje y automatas  2         |   Lenguaje y automatas  2       |  Lenguaje y automatas  2        |  Lenguaje y automatas  2        |   Lenguaje y automatas  2       |
+| conmutaciones y enrutamiento    |  conmutaciones y enrutamiento   |   conmutaciones y enrutamiento  |   conmutaciones y enrutamiento  | conmutaciones y enrutamiento    |
+| Administracion de base de datos | Administracion de base de datos | Administracion de base de datos | Administracion de base de datos | Administracion de base de datos |
+| Progamacion logica y funcional  | Progamacion logica y funcional  | Progamacion logica y funcional  | Progamacion logica y funcional  | Progamacion logica y funcional  |
